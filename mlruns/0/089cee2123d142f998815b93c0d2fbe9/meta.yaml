@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/0/089cee2123d142f998815b93c0d2fbe9/artifacts
+end_time: 1760034580533
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 089cee2123d142f998815b93c0d2fbe9
+run_name: Direct-Transcription
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760034536151
+status: 3
+tags: []
+user_id: root
