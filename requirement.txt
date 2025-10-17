@@ -1,0 +1,29 @@
+# --- Video Download ---
+pytubefix==10.0.0
+
+# --- Scene Detection ---
+scenedetect==0.6.2
+
+# --- Video Editing / Audio Extraction ---
+moviepy==2.1.2
+pydub==0.25.1
+
+# --- Metadata Extraction ---
+tinytag==1.10.1
+
+# --- Subtitles / Transcripts ---
+youtube-transcript-api==1.2.3
+
+# --- Whisper Speech-to-Text ---
+openai-whisper==20231117
+
+# --- NLP / Similarity / Summarization ---
+sentence-transformers==3.0.1
+torch>=2.2.0
+scikit-learn==1.5.2
+transformers==4.45.2
+nltk==3.9.1
+
+# --- Utilities ---
+pandas==2.2.3
+ipython==8.28.0
