@@ -30,7 +30,7 @@ A **web-based video summarization tool** that automatically downloads a YouTube 
 
 ## 📺 Final Output
 
-<video width="630" height="300" src="AnithPrakash/Internship-ICTAK/blob/main/final%20video.mp4" controls></video>
+<video width="630" height="300" src="[AnithPrakash/Internship-ICTAK/blob/main/final%20video.mp4](https://github.com/AnithPrakash/Internship-ICTAK/blob/main/final%20video.mp4)" controls></video>
 
 
 ## ⚙️ Installation
