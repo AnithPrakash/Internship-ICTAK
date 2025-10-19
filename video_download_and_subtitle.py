@@ -1,6 +1,7 @@
 # Library to import for the video download
 from pytubefix import YouTube
 from pytubefix.cli import on_progress
+import pytube
 # Library for the subtitile
 from youtube_transcript_api import YouTubeTranscriptApi
 from urllib.parse import urlparse, parse_qs
@@ -99,4 +100,5 @@ if __name__=="__main__":
   print(f"The text (audio speech) used in the video in table \n {data}")
 
    
+
 
