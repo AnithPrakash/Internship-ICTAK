@@ -32,8 +32,7 @@ A **web-based video summarization tool** that automatically downloads a YouTube 
 
 ## 🎥 Project Demo
 
-[🎞 Watch Demo Video on Google Drive]([https://drive.google.com/file/d/1AbCdEfGhIjKlMnOpQrStUvWxYz/view](https://drive.google.com/file/d/1SDHxeYQ0NEONnD0G5OpYelgvGHeGk_7V/view?usp=sharing))
->
+[🎥 Watch demo video](video/demo.mp4)
 
 
 
