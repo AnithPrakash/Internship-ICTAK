@@ -30,10 +30,10 @@ A **web-based video summarization tool** that automatically downloads a YouTube 
 
 ## 📺 Final Output
 
-<video width="600" controls>
-  <source src="[https://drive.google.com/uc?export=download&id=1AbCdEfGhIjKlMnOpQrStUvWxYz](https://drive.google.com/file/d/1SDHxeYQ0NEONnD0G5OpYelgvGHeGk_7V/view?usp=sharing)" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+## 🎥 Project Demo
+
+[🎞 Watch Demo Video on Google Drive]([https://drive.google.com/file/d/1AbCdEfGhIjKlMnOpQrStUvWxYz/view](https://drive.google.com/file/d/1SDHxeYQ0NEONnD0G5OpYelgvGHeGk_7V/view?usp=sharing))
+>
 
 
 
