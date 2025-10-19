@@ -1,5 +1,5 @@
 # --- Video Download ---
-pytubefix
+pytube
 
 # --- Scene Detection ---
 scenedetect==0.6.2
@@ -27,5 +27,6 @@ nltk==3.9.1
 # --- Utilities ---
 pandas==2.2.3
 ipython==8.28.0
+
 
 
